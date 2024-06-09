@@ -1,7 +1,7 @@
 # Supply-Chain-Management
 The following repository contains the Supply Chain Management Project Analysis performed using Qlik analytics.
 
-Dataset from Kaggle : https://docs.google.com/spreadsheets/d/17bHGRxGuIr92BnAV_JLwUbgxJSpywL8Ir0PLRad6gSw/edit?usp=sharing
+Dataset from Kaggle : [https://docs.google.com/spreadsheets/d/17bHGRxGuIr92BnAV_JLwUbgxJSpywL8Ir0PLRad6gSw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1r4Gng1zSwd8G7QdVteMpiMZouWWv_CLrARV4fZhEccg/edit?usp=sharing)
 
 Preprocessed Dataset : https://docs.google.com/spreadsheets/d/1JM7Am_Y6kjB1BBb7WZYklUsyU0YmoJVGcoKvHofT6dw/edit?usp=sharing
 
