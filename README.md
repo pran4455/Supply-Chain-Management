@@ -7,6 +7,8 @@
 
 ### Preprocessed Dataset : https://docs.google.com/spreadsheets/d/1JM7Am_Y6kjB1BBb7WZYklUsyU0YmoJVGcoKvHofT6dw/edit?usp=sharing
 
+### Link to Qlik : https://dm2cdk1yv3bt9pq.sg.qlikcloud.com/sense/app/cb9a09e7-33cc-415b-9146-4a96fe54a2a2
+
 ### Demonstration video : https://drive.google.com/file/d/1HWJ8Lu60CfG6UPblgW3jr7_f8ffoVcO5/view?usp=sharing
 
 ### Project Documentation : https://docs.google.com/document/d/1Oa3s76hopR7ZTp3V7_Y0aTibno68eE3XeWcHbt9W2QY/edit?usp=sharing
